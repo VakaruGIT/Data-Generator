@@ -1,0 +1,391 @@
+MaterialNumber,MaterialType,MaterialName,ProductComplexity
+FG0001,FG,Aftermarket Gearbox,MED
+FG0002,FG,Bosch Timing Belt,MED
+FG0003,FG,Magneti Marelli Radiator,HIGH
+FG0004,FG,Valeo Drive Shaft,MED
+FG0005,FG,Remanufactured Gearbox,LOW
+FG0006,FG,Aftermarket Timing Belt,HIGH
+FG0007,FG,Sport Shock Absorber,MED
+FG0008,FG,Delphi Exhaust Manifold,MED
+FG0009,FG,TRW Crankshaft,LOW
+FG0010,FG,Bosch Camshaft,MED
+FG0011,FG,Valeo Radiator,LOW
+FG0012,FG,OEM Catalytic Converter,HIGH
+FG0013,FG,Bosch Shock Absorber,MED
+FG0014,FG,Valeo Airbag Module,HIGH
+FG0015,FG,Aftermarket Airbag Module,MED
+FG0016,FG,OEM Caliper,LOW
+FG0017,FG,Valeo Sway Bar,MED
+FG0018,FG,Genuine Oil Pump,LOW
+FG0019,FG,Performance Bearing,HIGH
+FG0020,FG,Bosch Fan,MED
+FG0021,FG,Performance Differential,MED
+FG0022,FG,Remanufactured Caliper,LOW
+FG0023,FG,ACDelco Oil Pump,HIGH
+FG0024,FG,Denso Turbocharger,HIGH
+FG0025,FG,Performance Fuel Injector,MED
+FG0026,FG,Delphi Camshaft,LOW
+FG0027,FG,TRW Gearbox,MED
+FG0028,FG,ACDelco Bearing,LOW
+FG0029,FG,ACDelco Catalytic Converter,LOW
+FG0030,FG,Magneti Marelli Sensor,MED
+SFG0001,SFG,Bosch Timing Belt,MED
+SFG0002,SFG,Continental Shock Absorber,HIGH
+SFG0003,SFG,Delphi Brake Disc,LOW
+SFG0004,SFG,Delphi Shock Absorber,LOW
+SFG0005,SFG,Magneti Marelli Bracket,LOW
+SFG0006,SFG,Aftermarket Catalytic Converter,LOW
+SFG0007,SFG,Sport Bearing,LOW
+SFG0008,SFG,ACDelco Exhaust Manifold,LOW
+SFG0009,SFG,Valeo Airbag Module,LOW
+SFG0010,SFG,Delphi Crankshaft,MED
+SFG0011,SFG,Aftermarket Radiator,LOW
+SFG0012,SFG,Performance Water Pump,MED
+SFG0013,SFG,Delphi Bearing,MED
+SFG0014,SFG,Valeo Bearing,LOW
+SFG0015,SFG,Delphi Brake Disc,MED
+SFG0016,SFG,Magneti Marelli Sway Bar,MED
+SFG0017,SFG,Aftermarket Bracket,LOW
+SFG0018,SFG,ACDelco Differential,LOW
+SFG0019,SFG,ACDelco Clutch Plate,MED
+SFG0020,SFG,Valeo Instrument Cluster,LOW
+SFG0021,SFG,Magneti Marelli Airbag Module,LOW
+SFG0022,SFG,Sport Instrument Cluster,LOW
+SFG0023,SFG,Aftermarket Camshaft,MED
+SFG0024,SFG,Genuine ECU,MED
+SFG0025,SFG,Denso Shock Absorber,MED
+SFG0026,SFG,Remanufactured Radiator,MED
+SFG0027,SFG,Denso Sway Bar,LOW
+SFG0028,SFG,TRW Oil Pump,LOW
+SFG0029,SFG,Sport ECU,LOW
+SFG0030,SFG,Remanufactured Shock Absorber,LOW
+SFG0031,SFG,Valeo Instrument Cluster,MED
+SFG0032,SFG,ACDelco Bracket,LOW
+SFG0033,SFG,Performance Fan,LOW
+SFG0034,SFG,Bosch Radiator,MED
+SFG0035,SFG,HD Crankshaft,MED
+SFG0036,SFG,Performance Fuel Injector,LOW
+SFG0037,SFG,TRW Oil Pump,LOW
+SFG0038,SFG,Delphi Turbocharger,LOW
+SFG0039,SFG,Sport Exhaust Manifold,LOW
+SFG0040,SFG,Sport Airbag Module,LOW
+SFG0041,SFG,ACDelco Turbocharger,LOW
+SFG0042,SFG,Aftermarket Control Arm,LOW
+SFG0043,SFG,TRW Seal,MED
+SFG0044,SFG,Sport ECU,LOW
+SFG0045,SFG,Continental Drive Shaft,LOW
+SFG0046,SFG,Magneti Marelli Drive Shaft,LOW
+SFG0047,SFG,Valeo Timing Belt,LOW
+SFG0048,SFG,OEM Shock Absorber,MED
+SFG0049,SFG,Magneti Marelli Timing Belt,LOW
+SFG0050,SFG,Genuine Caliper,MED
+SFG0051,SFG,Sport Exhaust Manifold,MED
+SFG0052,SFG,TRW Clutch Plate,LOW
+SFG0053,SFG,Valeo Drive Shaft,MED
+SFG0054,SFG,OEM Control Arm,LOW
+SFG0055,SFG,Delphi Fan,LOW
+SFG0056,SFG,Bosch Bearing,LOW
+SFG0057,SFG,Delphi Drive Shaft,MED
+SFG0058,SFG,Aftermarket Differential,LOW
+SFG0059,SFG,Performance Instrument Cluster,LOW
+SFG0060,SFG,TRW Catalytic Converter,LOW
+RAW0001,RAW,Delphi Brake Disc,LOW
+RAW0002,RAW,TRW Catalytic Converter,LOW
+RAW0003,RAW,Continental Steering Knuckle,LOW
+RAW0004,RAW,Magneti Marelli Shock Absorber,LOW
+RAW0005,RAW,HD Engine Block,LOW
+RAW0006,RAW,Aftermarket Timing Belt,LOW
+RAW0007,RAW,Delphi Instrument Cluster,LOW
+RAW0008,RAW,Sport Shock Absorber,LOW
+RAW0009,RAW,Performance Oil Pump,LOW
+RAW0010,RAW,Performance ECU,LOW
+RAW0011,RAW,ACDelco Gearbox,LOW
+RAW0012,RAW,Magneti Marelli Caliper,LOW
+RAW0013,RAW,Denso Sway Bar,LOW
+RAW0014,RAW,Bosch Timing Belt,LOW
+RAW0015,RAW,Sport Timing Belt,LOW
+RAW0016,RAW,Magneti Marelli Steering Knuckle,LOW
+RAW0017,RAW,Performance Differential,LOW
+RAW0018,RAW,OEM Gearbox,LOW
+RAW0019,RAW,HD ECU,LOW
+RAW0020,RAW,Magneti Marelli Bracket,LOW
+RAW0021,RAW,Aftermarket Steering Knuckle,LOW
+RAW0022,RAW,Genuine Turbocharger,LOW
+RAW0023,RAW,Denso Clutch Plate,LOW
+RAW0024,RAW,Performance Differential,LOW
+RAW0025,RAW,OEM Fan,LOW
+RAW0026,RAW,Sport Steering Knuckle,LOW
+RAW0027,RAW,Sport Engine Block,LOW
+RAW0028,RAW,Genuine Fuel Injector,LOW
+RAW0029,RAW,Continental Engine Block,LOW
+RAW0030,RAW,Delphi Clutch Plate,LOW
+RAW0031,RAW,Sport Bracket,LOW
+RAW0032,RAW,Performance Water Pump,LOW
+RAW0033,RAW,Valeo Crankshaft,LOW
+RAW0034,RAW,Valeo Seal,LOW
+RAW0035,RAW,Genuine Camshaft,LOW
+RAW0036,RAW,Delphi Timing Belt,LOW
+RAW0037,RAW,Continental Bracket,LOW
+RAW0038,RAW,Delphi Fan,LOW
+RAW0039,RAW,OEM Fan,LOW
+RAW0040,RAW,Denso Drive Shaft,LOW
+RAW0041,RAW,Aftermarket Control Arm,LOW
+RAW0042,RAW,OEM Differential,LOW
+RAW0043,RAW,Magneti Marelli Steering Knuckle,LOW
+RAW0044,RAW,HD Catalytic Converter,LOW
+RAW0045,RAW,TRW Turbocharger,LOW
+RAW0046,RAW,Sport Shock Absorber,LOW
+RAW0047,RAW,Performance Timing Belt,LOW
+RAW0048,RAW,Remanufactured Turbocharger,LOW
+RAW0049,RAW,Remanufactured Water Pump,LOW
+RAW0050,RAW,TRW Instrument Cluster,LOW
+RAW0051,RAW,Aftermarket Clutch Plate,LOW
+RAW0052,RAW,Continental Seal,LOW
+RAW0053,RAW,OEM Sway Bar,LOW
+RAW0054,RAW,Delphi Radiator,LOW
+RAW0055,RAW,Valeo Camshaft,LOW
+RAW0056,RAW,ACDelco Engine Block,LOW
+RAW0057,RAW,Genuine Shock Absorber,LOW
+RAW0058,RAW,Valeo Exhaust Manifold,LOW
+RAW0059,RAW,Valeo Engine Block,LOW
+RAW0060,RAW,Delphi Airbag Module,LOW
+RAW0061,RAW,Aftermarket Crankshaft,LOW
+RAW0062,RAW,Valeo Camshaft,LOW
+RAW0063,RAW,Sport Crankshaft,LOW
+RAW0064,RAW,HD Fuel Injector,LOW
+RAW0065,RAW,Delphi Steering Knuckle,LOW
+RAW0066,RAW,Valeo Oil Pump,LOW
+RAW0067,RAW,Aftermarket Control Arm,LOW
+RAW0068,RAW,Valeo Shock Absorber,LOW
+RAW0069,RAW,Denso Timing Belt,LOW
+RAW0070,RAW,Sport Seal,LOW
+RAW0071,RAW,Genuine Exhaust Manifold,LOW
+RAW0072,RAW,Continental Radiator,LOW
+RAW0073,RAW,Performance Control Arm,LOW
+RAW0074,RAW,Performance Caliper,LOW
+RAW0075,RAW,Valeo Gearbox,LOW
+RAW0076,RAW,Delphi Instrument Cluster,LOW
+RAW0077,RAW,TRW Clutch Plate,LOW
+RAW0078,RAW,TRW Caliper,LOW
+RAW0079,RAW,Continental Bearing,LOW
+RAW0080,RAW,Remanufactured Crankshaft,LOW
+RAW0081,RAW,Aftermarket ECU,LOW
+RAW0082,RAW,Aftermarket Gearbox,LOW
+RAW0083,RAW,Bosch Brake Disc,LOW
+RAW0084,RAW,Remanufactured Fuel Injector,LOW
+RAW0085,RAW,Performance Bearing,LOW
+RAW0086,RAW,Delphi Radiator,LOW
+RAW0087,RAW,Valeo Turbocharger,LOW
+RAW0088,RAW,OEM Sway Bar,LOW
+RAW0089,RAW,Denso Caliper,LOW
+RAW0090,RAW,Denso Oil Pump,LOW
+RAW0091,RAW,Continental Radiator,LOW
+RAW0092,RAW,HD Camshaft,LOW
+RAW0093,RAW,Continental Sensor,LOW
+RAW0094,RAW,HD Bearing,LOW
+RAW0095,RAW,OEM Gearbox,LOW
+RAW0096,RAW,Bosch ECU,LOW
+RAW0097,RAW,OEM Bracket,LOW
+RAW0098,RAW,Bosch Camshaft,LOW
+RAW0099,RAW,Sport Fan,LOW
+RAW0100,RAW,HD Radiator,LOW
+RAW0101,RAW,Denso Caliper,LOW
+RAW0102,RAW,Continental Control Arm,LOW
+RAW0103,RAW,Valeo Bearing,LOW
+RAW0104,RAW,TRW Seal,LOW
+RAW0105,RAW,Bosch Differential,LOW
+RAW0106,RAW,TRW Engine Block,LOW
+RAW0107,RAW,TRW Oil Pump,LOW
+RAW0108,RAW,Sport Sensor,LOW
+RAW0109,RAW,Performance Sway Bar,LOW
+RAW0110,RAW,Magneti Marelli Caliper,LOW
+RAW0111,RAW,Remanufactured Timing Belt,LOW
+RAW0112,RAW,Performance Shock Absorber,LOW
+RAW0113,RAW,Aftermarket Airbag Module,LOW
+RAW0114,RAW,Continental Drive Shaft,LOW
+RAW0115,RAW,Valeo Water Pump,LOW
+RAW0116,RAW,Valeo Crankshaft,LOW
+RAW0117,RAW,Genuine Timing Belt,LOW
+RAW0118,RAW,OEM Crankshaft,LOW
+RAW0119,RAW,Remanufactured Fuel Injector,LOW
+RAW0120,RAW,Bosch Crankshaft,LOW
+RAW0121,RAW,Genuine Control Arm,LOW
+RAW0122,RAW,OEM Bearing,LOW
+RAW0123,RAW,OEM Differential,LOW
+RAW0124,RAW,Bosch Steering Knuckle,LOW
+RAW0125,RAW,Delphi Bearing,LOW
+RAW0126,RAW,Denso Camshaft,LOW
+RAW0127,RAW,Genuine Camshaft,LOW
+RAW0128,RAW,Aftermarket Bearing,LOW
+RAW0129,RAW,Valeo Brake Disc,LOW
+RAW0130,RAW,Delphi Seal,LOW
+RAW0131,RAW,Genuine Radiator,LOW
+RAW0132,RAW,Genuine Catalytic Converter,LOW
+RAW0133,RAW,Bosch Catalytic Converter,LOW
+RAW0134,RAW,Delphi Caliper,LOW
+RAW0135,RAW,Aftermarket Exhaust Manifold,LOW
+RAW0136,RAW,Genuine Steering Knuckle,LOW
+RAW0137,RAW,ACDelco Oil Pump,LOW
+RAW0138,RAW,Valeo Instrument Cluster,LOW
+RAW0139,RAW,Remanufactured Fuel Injector,LOW
+RAW0140,RAW,Valeo Oil Pump,LOW
+RAW0141,RAW,TRW Drive Shaft,LOW
+RAW0142,RAW,Aftermarket ECU,LOW
+RAW0143,RAW,Magneti Marelli Sway Bar,LOW
+RAW0144,RAW,ACDelco Fan,LOW
+RAW0145,RAW,Sport Camshaft,LOW
+RAW0146,RAW,Bosch Sway Bar,LOW
+RAW0147,RAW,Genuine Exhaust Manifold,LOW
+RAW0148,RAW,Delphi Camshaft,LOW
+RAW0149,RAW,OEM Turbocharger,LOW
+RAW0150,RAW,OEM Oil Pump,LOW
+RAW0151,RAW,Denso Clutch Plate,LOW
+RAW0152,RAW,Sport Camshaft,LOW
+RAW0153,RAW,Sport Radiator,LOW
+RAW0154,RAW,ACDelco Water Pump,LOW
+RAW0155,RAW,Denso Sway Bar,LOW
+RAW0156,RAW,HD Shock Absorber,LOW
+RAW0157,RAW,Remanufactured Water Pump,LOW
+RAW0158,RAW,Genuine Sensor,LOW
+RAW0159,RAW,Aftermarket Steering Knuckle,LOW
+RAW0160,RAW,Bosch Instrument Cluster,LOW
+RAW0161,RAW,HD Shock Absorber,LOW
+RAW0162,RAW,Magneti Marelli Instrument Cluster,LOW
+RAW0163,RAW,Delphi Seal,LOW
+RAW0164,RAW,Denso Oil Pump,LOW
+RAW0165,RAW,Delphi Seal,LOW
+RAW0166,RAW,Delphi Timing Belt,LOW
+RAW0167,RAW,OEM Drive Shaft,LOW
+RAW0168,RAW,Magneti Marelli Water Pump,LOW
+RAW0169,RAW,Genuine Turbocharger,LOW
+RAW0170,RAW,Remanufactured Fuel Injector,LOW
+RAW0171,RAW,Valeo Instrument Cluster,LOW
+RAW0172,RAW,Aftermarket Bearing,LOW
+RAW0173,RAW,Magneti Marelli Steering Knuckle,LOW
+RAW0174,RAW,Continental Oil Pump,LOW
+RAW0175,RAW,Sport Bearing,LOW
+RAW0176,RAW,Bosch Camshaft,LOW
+RAW0177,RAW,Aftermarket Caliper,LOW
+RAW0178,RAW,HD Oil Pump,LOW
+RAW0179,RAW,Bosch Engine Block,LOW
+RAW0180,RAW,ACDelco Fan,LOW
+RAW0181,RAW,Denso ECU,LOW
+RAW0182,RAW,Magneti Marelli Differential,LOW
+RAW0183,RAW,Remanufactured Sway Bar,LOW
+RAW0184,RAW,OEM Airbag Module,LOW
+RAW0185,RAW,TRW Shock Absorber,LOW
+RAW0186,RAW,Bosch Gearbox,LOW
+RAW0187,RAW,Delphi Seal,LOW
+RAW0188,RAW,Remanufactured Seal,LOW
+RAW0189,RAW,Denso Shock Absorber,LOW
+RAW0190,RAW,Bosch Bracket,LOW
+RAW0191,RAW,ACDelco Exhaust Manifold,LOW
+RAW0192,RAW,OEM Drive Shaft,LOW
+RAW0193,RAW,TRW Drive Shaft,LOW
+RAW0194,RAW,Bosch Water Pump,LOW
+RAW0195,RAW,ACDelco Seal,LOW
+RAW0196,RAW,Sport Sensor,LOW
+RAW0197,RAW,HD Crankshaft,LOW
+RAW0198,RAW,Sport Clutch Plate,LOW
+RAW0199,RAW,Valeo Instrument Cluster,LOW
+RAW0200,RAW,Valeo Instrument Cluster,LOW
+RAW0201,RAW,Delphi Clutch Plate,LOW
+RAW0202,RAW,Performance Shock Absorber,LOW
+RAW0203,RAW,Sport Bearing,LOW
+RAW0204,RAW,TRW Catalytic Converter,LOW
+RAW0205,RAW,Remanufactured Drive Shaft,LOW
+RAW0206,RAW,Sport Radiator,LOW
+RAW0207,RAW,HD Differential,LOW
+RAW0208,RAW,Performance Sensor,LOW
+RAW0209,RAW,Denso Seal,LOW
+RAW0210,RAW,TRW Engine Block,LOW
+RAW0211,RAW,Denso Timing Belt,LOW
+RAW0212,RAW,Sport Fuel Injector,LOW
+RAW0213,RAW,Performance Caliper,LOW
+RAW0214,RAW,Performance Instrument Cluster,LOW
+RAW0215,RAW,HD Timing Belt,LOW
+RAW0216,RAW,Performance Radiator,LOW
+RAW0217,RAW,Magneti Marelli Differential,LOW
+RAW0218,RAW,Performance Airbag Module,LOW
+RAW0219,RAW,Delphi Brake Disc,LOW
+RAW0220,RAW,HD Crankshaft,LOW
+RAW0221,RAW,HD Control Arm,LOW
+RAW0222,RAW,Valeo Turbocharger,LOW
+RAW0223,RAW,HD Sway Bar,LOW
+RAW0224,RAW,ACDelco Water Pump,LOW
+RAW0225,RAW,HD Sensor,LOW
+RAW0226,RAW,HD Radiator,LOW
+RAW0227,RAW,Valeo Engine Block,LOW
+RAW0228,RAW,Aftermarket Turbocharger,LOW
+RAW0229,RAW,TRW Fuel Injector,LOW
+RAW0230,RAW,Magneti Marelli Bearing,LOW
+RAW0231,RAW,Delphi Fan,LOW
+RAW0232,RAW,Magneti Marelli Clutch Plate,LOW
+RAW0233,RAW,Aftermarket Steering Knuckle,LOW
+RAW0234,RAW,TRW Instrument Cluster,LOW
+RAW0235,RAW,HD Shock Absorber,LOW
+RAW0236,RAW,ACDelco Engine Block,LOW
+RAW0237,RAW,Delphi Seal,LOW
+RAW0238,RAW,Magneti Marelli Differential,LOW
+RAW0239,RAW,Genuine Oil Pump,LOW
+RAW0240,RAW,Bosch Gearbox,LOW
+RAW0241,RAW,Genuine Caliper,LOW
+RAW0242,RAW,ACDelco Timing Belt,LOW
+RAW0243,RAW,Performance Fuel Injector,LOW
+RAW0244,RAW,TRW Catalytic Converter,LOW
+RAW0245,RAW,OEM Gearbox,LOW
+RAW0246,RAW,TRW Seal,LOW
+RAW0247,RAW,Genuine Turbocharger,LOW
+RAW0248,RAW,Magneti Marelli Crankshaft,LOW
+RAW0249,RAW,Remanufactured Caliper,LOW
+RAW0250,RAW,Bosch Steering Knuckle,LOW
+RAW0251,RAW,Sport Sensor,LOW
+RAW0252,RAW,OEM Instrument Cluster,LOW
+RAW0253,RAW,Remanufactured Timing Belt,LOW
+RAW0254,RAW,Remanufactured Instrument Cluster,LOW
+RAW0255,RAW,Valeo Clutch Plate,LOW
+RAW0256,RAW,TRW Camshaft,LOW
+RAW0257,RAW,Aftermarket Fuel Injector,LOW
+RAW0258,RAW,Genuine Fuel Injector,LOW
+RAW0259,RAW,Aftermarket Bearing,LOW
+RAW0260,RAW,Delphi Timing Belt,LOW
+RAW0261,RAW,Sport Water Pump,LOW
+RAW0262,RAW,OEM Water Pump,LOW
+RAW0263,RAW,Aftermarket Caliper,LOW
+RAW0264,RAW,ACDelco Brake Disc,LOW
+RAW0265,RAW,Remanufactured Water Pump,LOW
+RAW0266,RAW,OEM Drive Shaft,LOW
+RAW0267,RAW,Valeo Caliper,LOW
+RAW0268,RAW,Aftermarket Brake Disc,LOW
+RAW0269,RAW,Aftermarket Timing Belt,LOW
+RAW0270,RAW,Sport Differential,LOW
+RAW0271,RAW,Genuine Exhaust Manifold,LOW
+RAW0272,RAW,Magneti Marelli Brake Disc,LOW
+RAW0273,RAW,OEM Bracket,LOW
+RAW0274,RAW,Bosch Water Pump,LOW
+RAW0275,RAW,Magneti Marelli Turbocharger,LOW
+RAW0276,RAW,TRW Sensor,LOW
+RAW0277,RAW,Genuine Catalytic Converter,LOW
+RAW0278,RAW,Aftermarket Fuel Injector,LOW
+RAW0279,RAW,Continental Sway Bar,LOW
+RAW0280,RAW,Continental Instrument Cluster,LOW
+RAW0281,RAW,Valeo Steering Knuckle,LOW
+RAW0282,RAW,Continental Sensor,LOW
+RAW0283,RAW,Sport Sensor,LOW
+RAW0284,RAW,Remanufactured Differential,LOW
+RAW0285,RAW,Aftermarket Camshaft,LOW
+RAW0286,RAW,Magneti Marelli Steering Knuckle,LOW
+RAW0287,RAW,Aftermarket ECU,LOW
+RAW0288,RAW,Genuine Fuel Injector,LOW
+RAW0289,RAW,Delphi Bracket,LOW
+RAW0290,RAW,Performance Radiator,LOW
+RAW0291,RAW,Aftermarket Water Pump,LOW
+RAW0292,RAW,Valeo Sensor,LOW
+RAW0293,RAW,Valeo Drive Shaft,LOW
+RAW0294,RAW,Bosch Crankshaft,LOW
+RAW0295,RAW,Valeo Control Arm,LOW
+RAW0296,RAW,Genuine Bearing,LOW
+RAW0297,RAW,Performance Camshaft,LOW
+RAW0298,RAW,Continental Caliper,LOW
+RAW0299,RAW,Sport ECU,LOW
+RAW0300,RAW,Genuine Turbocharger,LOW
